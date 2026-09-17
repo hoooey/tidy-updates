@@ -1,0 +1,17 @@
+   <?xml version="1.0" encoding="utf-8"?>
+   <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+     <channel>
+       <title>Tidy Updates</title>
+       <item>
+         <title>Version 1.0</title>
+         <description><![CDATA[<ul><li>Initial release</li></ul>]]></description>
+         <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+         <sparkle:version>1</sparkle:version>
+         <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+         <enclosure url="https://github.com/hoooey/tidy-updates/releases/download/v1.0/Tidy-1.0.zip"
+                    sparkle:edSignature="Is/5B6A/6g5f2id78c8hMYEv17NU5Xc0a7mS1n4Piz+IyF2kIJSIhIT58t0xGKxiZ5p4r5ZuwVLAL0IsA85GDw=="
+                    length="1376423"
+                    type="application/octet-stream" />
+       </item>
+     </channel>
+   </rss>
